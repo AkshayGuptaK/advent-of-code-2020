@@ -7,4 +7,4 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (println (day1/part1 (parser/parse (first args)))))
+  (println (day1/part2 (parser/parse (first args)))))
